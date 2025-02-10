@@ -1,0 +1,7 @@
+WMO_Region,ExtremeHeat_Loss,Coldspell_coldwave_Loss,RiverFlood_Loss,Aridity_Drought_Loss,FireWeather_Loss,SevereWindStorm_Loss,TropicalCyclone_Loss,SandAndDustStorm_Loss,Permafrost_Loss,SnowAndIceStorm_Loss,Hail_Loss,SnowAvalanche_Loss,CoastalFlood_Loss
+AFRICA_WMO,0.0,0.0,9.625,10.01,0.77,0.385,9.625,0,0,0.0,0.0,0,0.0
+ASIA_WMO,0.0,0.0,456.0,72.0,12.0,12.0,360.0,0,0,12.0,0.0,0,12.0
+SOUTH AMERICA,0.0,4.0360000000000005,26.234,28.252000000000006,2.0180000000000002,0.0,3.027,0,0,0.0,0.0,0,0.0
+North America Central America and the Caribbean,17.0,17.0,102.0,68.0,102.0,34.0,985.9999999999999,0,0,34.0,17.0,0,0.0
+SOUTH-WEST PACIFIC,0.0,0.0,27.829,26.192,22.918,3.274,60.568999999999996,0,0,0.0,4.911,0,0.0
+EUROPE,19.06,4.765,128.655,47.650000000000006,19.06,4.765,4.765,0,0,0.0,9.53,0,0.0

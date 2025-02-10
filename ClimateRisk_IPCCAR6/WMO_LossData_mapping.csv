@@ -1,0 +1,7 @@
+﻿WMO_Region,ExtremeHeat,Coldspell_coldwave,RiverFlood,Aridity_Drought,FireWeather,SevereWindStorm,TropicalCyclone,SandAndDustStorm,Permafrost,SnowAndIceStorm,Hail,SnowAvalanche,CoastalFlood
+AFRICA_WMO,,,0.25,0.26,0.02,0.01,0.25,,,,,,
+ASIA_WMO,,,0.38,0.06,0.01,0.01,0.3,,,0.01,,,0.01
+SOUTH AMERICA,,0.04,0.26,0.28,0.02,,0.03,,,,,,
+North America Central America and the Caribbean,0.01,0.01,0.06,0.04,0.06,0.02,0.58,,,0.02,0.01,,
+SOUTH-WEST PACIFIC,,,0.17,0.16,0.14,0.02,0.37,,,,0.03,,
+EUROPE,0.04,0.01,0.27,0.1,0.04,0.01,0.01,,,,0.02,,
