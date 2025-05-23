@@ -1,12 +1,12 @@
 # Cross-Sector Energy System Resilience and Interdependence in a Changing Climate
 
-This repository contains the code and data used for generating the figures in the paper "Cross-Sector Energy System Resilience and Interdependence in a Changing Climate."
+This repository contains the code and data used to generate the figures in the paper "Cross-Sector Energy System Resilience and Interdependence in a Changing Climate."
 
 
 
 ## Global electrification and intensifying climate change risks at the sub-national scale
 
-Electrification projection is based on the Global change analysis model (GCAM) v7.1 (https://jgcri.github.io/gcam-doc/toc.html) [R1].  To map regional results to country-level outputs, run:
+Electrification projection is based on the Global Change Analysis Model (GCAM) v7.1 (https://jgcri.github.io/gcam-doc/toc.html) [R1].  To map regional results to country-level outputs, run:
 
 Run ./GCAM/Python_GCAM_regiontocountry.py
 
@@ -14,7 +14,7 @@ Climate change risks are characterized by composite confidence levels of the pro
 
 Run ./ClimateRisk_IPCCAR6/Risk_Relevance_Calculation_GDP.py
 
-Then Run ./ClimateRisk_IPCCAR6/Quantifyclimaterisk_GDP_PPP_total.py to quantify risk values for each IPCC-defined land region.
+Then run ./ClimateRisk_IPCCAR6/Quantifyclimaterisk_GDP_PPP_total.py to quantify risk values for each IPCC-defined land region.
 
 
 
@@ -22,7 +22,7 @@ Then Run ./ClimateRisk_IPCCAR6/Quantifyclimaterisk_GDP_PPP_total.py to quantify 
 
 Projections for tropical cyclone intensity in Texas under the current climate scenario (green), moderate emission scenario (SSP2-4.5, blue), and high emission scenario (SSP5-8.5, red) by the late 21st century. Wind intensity is calculated at Galveston, Texas. Colored scatter points represent individual samples of the wind intensity (m/s) for each synthetic tropical cyclone that makes landfall in Texas under the corresponding climate scenario. The solid curves, with shaded regions indicating uncertainty, show the statistical fitting using the Generalized Pareto Distribution (GPD) for extreme wind intensities (90th percentile) in each scenario. Each climate scenario presents the return period of synthetic tropical cyclone [R2] projected by downscaling the ensemble of six Coupled Model Intercomparison Project Phase 6 (CMIP6) general circulation models (GCMs), including CanESM5, CNRM-CM6-1, EC-Earth3, IPSL-CM6A-LR, MIROC6, and UKESM1-0-LL.
 
-运行 ./Hurricane_Texas/Plot_GDP_ReturnPeriod.py
+Run ./Hurricane_Texas/Plot_GDP_ReturnPeriod.py
 
 
 
